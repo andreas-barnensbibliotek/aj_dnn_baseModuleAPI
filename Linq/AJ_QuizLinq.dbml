@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="207074-frontdatadb" Class="AJ_QuizLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=207074-frontdatadb;User ID=207074_il88852" SettingsObjectName="Aj_quizEngineAPI_vb.My.MySettings" SettingsPropertyName="_207074_frontdatadbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_aj_fd_QuizEngine_main" Member="tbl_aj_fd_QuizEngine_mains">
+    <Type Name="tbl_aj_fd_QuizEngine_main">
+      <Column Name="QuizID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

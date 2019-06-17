@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AJ_QuizLinq">
+  <DataContextMoniker Name="/AJ_QuizLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="89ed3022-712c-4604-92c2-9d3ea1968b27" absoluteBounds="0.5, 0.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AJ_QuizLinqDataContext/tbl_aj_fd_QuizEngine_main" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb1fbea5-a55a-4787-bf14-28998866a5c8" absoluteBounds="0.51499999999999968, 1.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
